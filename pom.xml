@@ -14,7 +14,7 @@
 	<name>sb-shop</name>
 	<description>Simple marketplace for order meals.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>13</java.version>
 	</properties>
 	<dependencies>
 		<!-- <dependency>
