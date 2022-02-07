@@ -35,3 +35,6 @@ build/
 ### Templates ###
 src/main/resources/templates
 src/main/resources/static
+
+### Environment ###
+src/main/resources/application.properties
