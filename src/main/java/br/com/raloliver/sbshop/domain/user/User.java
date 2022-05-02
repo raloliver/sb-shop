@@ -2,7 +2,7 @@
  * File: User.java
  * Project: user
  * Created: Monday, February 7th 2022, 5:19:52 pm
- * Last Modified: Monday, May 2nd 2022, 3:52:43 pm
+ * Last Modified: Monday, May 2nd 2022, 4:36:06 pm
  * Copyright © 2022 AMDE Agência
  */
 
